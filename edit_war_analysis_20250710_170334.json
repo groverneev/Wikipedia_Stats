@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-07-10T17:03:33.121694",
+  "analysis_parameters": {
+    "revert_threshold": 3,
+    "time_window_hours": 24,
+    "min_editors": 2
+  },
+  "contested_articles": [],
+  "overall_statistics": {},
+  "editor_behavior_patterns": {},
+  "protection_analysis": {},
+  "talk_page_correlation": {}
+}
